@@ -1,6 +1,7 @@
 # Programmer: Aiden Peace
 # Date: Dec, 4th 2022
 # Program : Day 1: Calorie Counting
+# website URL: https://adventofcode.com/2022/day/1
 # -------------------------------------------------------------------------------------------------------
 # Prompt:
 # Santa's reindeer typically eat regular reindeer food, but they need
