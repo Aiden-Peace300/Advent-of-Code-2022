@@ -90,7 +90,7 @@ if max_elf_calories <= each_elf_sum_of_calories:
 # print the elf with the most calories to console/terminal.
 print('The calories of the elf with the most food is: ', max_elf_calories)
 
-'''------------ MERRY CHRISTMAS DAY 1 FROM AIDEN PEACE -------------
+'''------------ MERRY HOLIDAYS DAY 1 FROM AIDEN PEACE -------------
 #　　　　　·　　❅·　　❆　❅❆　　❅　　*　　　　　　　　❆　❆　　*❆　　　.
 #　　*　　　❅　·　.·　*　　*.　　　　•❅　　　•.　　　.　　•　.　　.　　•　
 #　*　.·.　　　　　　.　　　·　❅*　　　　❅　　　　　　❆　❆　　*❆　.　　.
