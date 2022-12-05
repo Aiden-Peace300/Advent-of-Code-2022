@@ -1,6 +1,6 @@
 # Programmer: Aiden Peace
 # Date: Dec, 4th 2022
-# Program : Day 1: Calorie Counting PART 2
+# Program : Day 1: Calorie Counting (PART B/PART 2) 
 # website URL: https://adventofcode.com/2022/day/1
 # -------------------------------------------------------------------------------------------------------
 # Prompt:
