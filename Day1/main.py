@@ -67,8 +67,6 @@ with open("input.txt") as file:
     list_of_cals = file.readlines()
     list_of_cals = [line.rstrip() for line in list_of_cals]
 
-print(list_of_cals)
-
 # count up calories of each elf til you reach empty line
 for line in list_of_cals:
     if line == '':
@@ -90,7 +88,7 @@ if max_elf_calories <= each_elf_sum_of_calories:
     max_elf_calories = each_elf_sum_of_calories
 
 # print the elf with the most calories to console/terminal.
-print(max_elf_calories)
+print('The calories of the elf with the most food is: ' + max_elf_calories)
 
 '''------------ MERRY CHRISTMAS DAY 1 FROM AIDEN PEACE -------------
 #　　　　　·　　❅·　　❆　❅❆　　❅　　*　　　　　　　　❆　❆　　*❆　　　.
