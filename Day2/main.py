@@ -175,7 +175,7 @@ for i in (range(len(elf1Choices))):
         elf1Score += elf1Losses_RockLossesToPaper
 
     # -------------------- ^^^ END OF HANDLING ELF2 WINS ^^^ --------------------
-print("Your Elf opponent Rock-Paper-Scissor Game Score is:a", elf1Score)
+print("Your Elf opponent Rock-Paper-Scissor Game Score is:", elf1Score)
 print("Your Elf Rock-Paper-Scissor Game Score is:", elf2Score)
 
 if elf2Score > elf1Score:
