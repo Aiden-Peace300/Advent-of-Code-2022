@@ -176,7 +176,7 @@ elif elf1Score == elf2Score:
 else:
     print("Tell Programmer (Aiden Peace) Something is wrong! :( ")
 
-# ------------- MERRY HOLIDAYS DAY 2 FROM AIDEN PEACE -------------
+# ------------- MERRY CHRISTMAS DAY 2 FROM AIDEN PEACE -------------
 #   *    *     *      *      *    *   *    *    *     *        *
 #  *       *   * *        *    *      *        *       *      *
 #   * |,\/,| |[_' |[_]) |[_]) \\// *     *       *     *    *
